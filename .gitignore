@@ -1,0 +1,13 @@
+# Titkos adatbázis hozzáférések (Soha ne commitold!)
+api/db_config.php
+db_config.php
+*.config.php
+!*.config.example.php
+.env
+.env.*
+
+# Rendszerfájlok
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
